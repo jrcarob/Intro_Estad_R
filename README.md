@@ -1,2 +1,2 @@
-# Intro_Estad_R
-Curso Introductorio a la Estadística con R
+# Introducción a la Estadística con _R_
+Bienvenido al Curso Introductorio a la Estadística con R para alumnos de ciencias de la UCO
